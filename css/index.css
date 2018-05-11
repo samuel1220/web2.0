@@ -494,7 +494,7 @@
     @media (max-width:554px)and (max-height:550px) {
         .icon-menu {
             padding-left: 170px;
-            margin-top: 0px;
+            margin-top: 14px;
         }
     }
  @media (max-width:390px)and (max-height:480px) {
