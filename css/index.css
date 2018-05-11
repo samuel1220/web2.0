@@ -498,13 +498,17 @@
         }
     }
  @media (max-width:390px)and (max-height:480px) {
-            .icon-menu {
-                padding-left: 15%;
-                margin-top: 0px;
-            }
             .description .p1 {
                 font-size: 40px;
-                margin-left: 0%;
+                padding: 0px 0px;
+                margin-left: 0px;
+                border: solid 1px;
                 width: 80%;
+                height: 15px;
+            }
+            .icon-menu {
+                padding: 0px 0px;
+                margin-right: 1%;
+                border: solid 1px;
             }
         }
