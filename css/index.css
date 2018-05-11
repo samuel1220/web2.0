@@ -499,7 +499,7 @@
     }
  @media (max-width:390px)and (max-height:480px) {
             .icon-menu {
-                padding-left: 0px;
+                padding-left: 15%;
                 margin-top: 0px;
             }
             .description .p1 {
