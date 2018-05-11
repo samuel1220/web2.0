@@ -497,3 +497,13 @@
             margin-top: 0px;
         }
     }
+ @media (max-width:390px)and (max-height:480px) {
+            .icon-menu {
+                padding-left: 105px;
+                margin-top: 0px;
+            }
+            .description .p1 {
+                font-size: 40px;
+                margin-left: 0%;
+            }
+        }
